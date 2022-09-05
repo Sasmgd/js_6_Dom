@@ -1,3 +1,30 @@
-h1{
-    background-color: brown;
+.box{
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    border: 5px solid red;
+}
+.title{
+    font-size: 40px;
+    color: black;
+    text-align: center;  
+}
+.btn{
+    background-color: red;
+    color: white;
+    display: block;
+    margin: 0px auto;
+}
+.btn1{
+    width: 200px;
+    background-color: green;
+    color: yellow;
+    display: block;
+    margin: 20px auto;
+    
+}
+.divs{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
 }
